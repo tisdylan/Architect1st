@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dylan @Architect1st
+- 👋 Hi, I’m Dylan @Architect1st, currently pursuing Master of CompEng at uOttawa.
 - 👀 I’m interested in front end developing, NLP, and Reinforcement Learning. 
 - 🌱 I’m currently learning Multi-agent Reinforcement Learning.
 <!-- - 💞️ I’m looking to collaborate on ... -->
